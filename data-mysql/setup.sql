@@ -1,3 +1,6 @@
+
+use ima
+
 SET foreign_key_checks = 0;
 
 Drop Table grade;
